@@ -12,12 +12,10 @@ Key Components:
 1. Product Display: Images of the Embrace Sideboard are presented in a visually appealing manner.
 2. Product Information: Brand name and product name are displayed.
 3. Pricing Information: The product's discounted and original prices are included.
-4. Color Selection: Users can choose from a variety of colors for the sideboard.
+4. Color Selection: Users can choose from a variety of colors.
 5. Size Selection: A range of sizes is available for users to select.
 6. Quantity Control: Users can adjust the quantity of the product in their cart.
 6. Add to Cart Button: Users can add the product to their cart with a click.
-7. Responsive Design: The webpage is designed to be responsive to different screen sizes.
-
    
 Project Purpose:
 
